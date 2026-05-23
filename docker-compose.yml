@@ -1,0 +1,55 @@
+version: '3.8'
+
+services:
+  mongo:
+    image: mongo:6.0
+    container_name: habesha_mongo
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: admin123
+    volumes:
+      - mongo_data:/data/db
+    networks:
+      - habesha_network
+
+  backend:
+    build: ./backend
+    container_name: habesha_backend
+    ports:
+      - "5000:5000"
+    environment:
+      NODE_ENV: development
+      MONGO_URI: mongodb://admin:admin123@mongo:27017/habesha
+      JWT_SECRET: your_jwt_secret_key
+      PORT: 5000
+    depends_on:
+      - mongo
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+    networks:
+      - habesha_network
+
+  frontend:
+    build: ./frontend
+    container_name: habesha_frontend
+    ports:
+      - "3000:3000"
+    environment:
+      REACT_APP_API_URL: http://localhost:5000/api
+    depends_on:
+      - backend
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    networks:
+      - habesha_network
+
+volumes:
+  mongo_data:
+
+networks:
+  habesha_network:
+    driver: bridge
