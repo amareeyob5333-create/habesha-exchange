@@ -1,0 +1,1640 @@
+{
+  "users": [
+    {
+      "id": "usr_90e2bcf7b52f0d7d",
+      "email": "demo1778420285826@ethiocrypto.test",
+      "passwordHash": "9865d9d3f2c1d35cd66f85135ce8ccf9:60c40b979aea22046c9ce5e2c00178e87730fa936e3890b59e9bdbe55c0e2227",
+      "provider": "email",
+      "dashboard": {
+        "portfolioValue": 7114,
+        "dailyChange": "2.60",
+        "balances": [
+          {
+            "symbol": "BTC",
+            "name": "Bitcoin",
+            "amount": "0.02000",
+            "usd": 1388.4024
+          },
+          {
+            "symbol": "ETH",
+            "name": "Ethereum",
+            "amount": "0.3400",
+            "usd": 1211.9470000000001
+          },
+          {
+            "symbol": "USDT",
+            "name": "Tether",
+            "amount": "944.00",
+            "usd": 944
+          },
+          {
+            "symbol": "TON",
+            "name": "Toncoin",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "TRX",
+            "name": "TRON",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "SOL",
+            "name": "Solana",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "BNB",
+            "name": "BNB",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "ADA",
+            "name": "Cardano",
+            "amount": "0.0000",
+            "usd": 0
+          }
+        ],
+        "activity": [
+          {
+            "type": "credit",
+            "title": "Welcome portfolio created",
+            "amount": "+mock balance",
+            "date": "Today"
+          },
+          {
+            "type": "debit",
+            "title": "Security review completed",
+            "amount": "manual checks",
+            "date": "Yesterday"
+          },
+          {
+            "type": "credit",
+            "title": "Market watchlist synced",
+            "amount": "BTC ETH USDT",
+            "date": "2 days ago"
+          }
+        ],
+        "transactions": [
+          {
+            "type": "Deposit",
+            "asset": "USDT",
+            "amount": "250.00",
+            "status": "Completed",
+            "date": "Mock data"
+          },
+          {
+            "type": "Trade",
+            "asset": "ETH",
+            "amount": "0.12",
+            "status": "Filled",
+            "date": "Mock data"
+          }
+        ]
+      }
+    },
+    {
+      "id": "usr_1b89df042cfb30fc",
+      "email": "browser1778420561172@ethiocrypto.test",
+      "passwordHash": "92c76e0bf2cf38ddff848236073cb21a:24cb4032551bd1c80542e481197552963711983ae518fc3254066f7215fa3976",
+      "provider": "email",
+      "dashboard": {
+        "portfolioValue": 5591,
+        "dailyChange": "3.10",
+        "balances": [
+          {
+            "symbol": "BTC",
+            "name": "Bitcoin",
+            "amount": "0.01700",
+            "usd": 1180.14204
+          },
+          {
+            "symbol": "ETH",
+            "name": "Ethereum",
+            "amount": "0.3900",
+            "usd": 1390.1745
+          },
+          {
+            "symbol": "USDT",
+            "name": "Tether",
+            "amount": "841.00",
+            "usd": 841
+          },
+          {
+            "symbol": "TON",
+            "name": "Toncoin",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "TRX",
+            "name": "TRON",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "SOL",
+            "name": "Solana",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "BNB",
+            "name": "BNB",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "ADA",
+            "name": "Cardano",
+            "amount": "0.0000",
+            "usd": 0
+          }
+        ],
+        "activity": [
+          {
+            "type": "credit",
+            "title": "Welcome portfolio created",
+            "amount": "+mock balance",
+            "date": "Today"
+          },
+          {
+            "type": "debit",
+            "title": "Security review completed",
+            "amount": "manual checks",
+            "date": "Yesterday"
+          },
+          {
+            "type": "credit",
+            "title": "Market watchlist synced",
+            "amount": "BTC ETH USDT",
+            "date": "2 days ago"
+          }
+        ],
+        "transactions": [
+          {
+            "type": "Deposit",
+            "asset": "USDT",
+            "amount": "250.00",
+            "status": "Completed",
+            "date": "Mock data"
+          },
+          {
+            "type": "Trade",
+            "asset": "ETH",
+            "amount": "0.12",
+            "status": "Filled",
+            "date": "Mock data"
+          }
+        ]
+      }
+    },
+    {
+      "id": "usr_dbceb1f1600db1ff",
+      "email": "user1778421376851@ethiocrypto.test",
+      "passwordHash": "c10eb3fea592f5f8ce9963b05513c801:2b8edd3714fd9c63eed6f5db901fc0c5af27ef2a1dc31a5f1911e08227242514",
+      "provider": "email",
+      "role": "user",
+      "dashboard": {
+        "portfolioValue": 5225,
+        "dailyChange": "1.30",
+        "balances": [
+          {
+            "symbol": "BTC",
+            "name": "Bitcoin",
+            "amount": "0.01500",
+            "usd": 1041.3018
+          },
+          {
+            "symbol": "ETH",
+            "name": "Ethereum",
+            "amount": "0.3300",
+            "usd": 1176.3015
+          },
+          {
+            "symbol": "USDT",
+            "name": "Tether",
+            "amount": "775.00",
+            "usd": 775
+          },
+          {
+            "symbol": "TON",
+            "name": "Toncoin",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "TRX",
+            "name": "TRON",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "SOL",
+            "name": "Solana",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "BNB",
+            "name": "BNB",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "ADA",
+            "name": "Cardano",
+            "amount": "0.0000",
+            "usd": 0
+          }
+        ],
+        "activity": [
+          {
+            "type": "credit",
+            "title": "Welcome portfolio created",
+            "amount": "+mock balance",
+            "date": "Today"
+          },
+          {
+            "type": "debit",
+            "title": "Security review completed",
+            "amount": "manual checks",
+            "date": "Yesterday"
+          },
+          {
+            "type": "credit",
+            "title": "Market watchlist synced",
+            "amount": "BTC ETH USDT",
+            "date": "2 days ago"
+          }
+        ],
+        "transactions": [
+          {
+            "type": "Deposit",
+            "asset": "USDT",
+            "amount": "250.00",
+            "status": "Completed",
+            "date": "Mock data"
+          },
+          {
+            "type": "Trade",
+            "asset": "ETH",
+            "amount": "0.12",
+            "status": "Filled",
+            "date": "Mock data"
+          }
+        ]
+      }
+    },
+    {
+      "id": "usr_a5b339c86a422140",
+      "email": "admin1778421376851@ethiocrypto.test",
+      "passwordHash": "cb44bcdae8961a5d5de2ddd0442d9b1a:f05aa5a104225f7eb361b1904a9793e8460cc667aa9b8792b8b915f376273f2c",
+      "provider": "email",
+      "role": "user",
+      "dashboard": {
+        "portfolioValue": 5264,
+        "dailyChange": "2.80",
+        "balances": [
+          {
+            "symbol": "BTC",
+            "name": "Bitcoin",
+            "amount": "0.01400",
+            "usd": 971.88168
+          },
+          {
+            "symbol": "ETH",
+            "name": "Ethereum",
+            "amount": "0.3600",
+            "usd": 1283.238
+          },
+          {
+            "symbol": "USDT",
+            "name": "Tether",
+            "amount": "874.00",
+            "usd": 874
+          },
+          {
+            "symbol": "TON",
+            "name": "Toncoin",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "TRX",
+            "name": "TRON",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "SOL",
+            "name": "Solana",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "BNB",
+            "name": "BNB",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "ADA",
+            "name": "Cardano",
+            "amount": "0.0000",
+            "usd": 0
+          }
+        ],
+        "activity": [
+          {
+            "type": "credit",
+            "title": "Welcome portfolio created",
+            "amount": "+mock balance",
+            "date": "Today"
+          },
+          {
+            "type": "debit",
+            "title": "Security review completed",
+            "amount": "manual checks",
+            "date": "Yesterday"
+          },
+          {
+            "type": "credit",
+            "title": "Market watchlist synced",
+            "amount": "BTC ETH USDT",
+            "date": "2 days ago"
+          }
+        ],
+        "transactions": [
+          {
+            "type": "Deposit",
+            "asset": "USDT",
+            "amount": "250.00",
+            "status": "Completed",
+            "date": "Mock data"
+          },
+          {
+            "type": "Trade",
+            "asset": "ETH",
+            "amount": "0.12",
+            "status": "Filled",
+            "date": "Mock data"
+          }
+        ]
+      }
+    },
+    {
+      "id": "usr_1db8c6fa4fcea18d",
+      "email": "user1778421391992@ethiocrypto.test",
+      "passwordHash": "83c0abda0456a061eb1e55bd2e5632f9:e6ada6b80ccbc063d950c9acaae85a9d55f0e1a86d524bd63c45c5dbbc126a79",
+      "provider": "email",
+      "role": "user",
+      "dashboard": {
+        "portfolioValue": 6644,
+        "dailyChange": "2.20",
+        "balances": [
+          {
+            "symbol": "BTC",
+            "name": "Bitcoin",
+            "amount": "0.01600",
+            "usd": 1110.72192
+          },
+          {
+            "symbol": "ETH",
+            "name": "Ethereum",
+            "amount": "0.4200",
+            "usd": 1497.111
+          },
+          {
+            "symbol": "USDT",
+            "name": "Tether",
+            "amount": "814.00",
+            "usd": 814
+          },
+          {
+            "symbol": "TON",
+            "name": "Toncoin",
+            "amount": "7.788162",
+            "usd": 50
+          },
+          {
+            "symbol": "TRX",
+            "name": "TRON",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "SOL",
+            "name": "Solana",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "BNB",
+            "name": "BNB",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "ADA",
+            "name": "Cardano",
+            "amount": "0.0000",
+            "usd": 0
+          }
+        ],
+        "activity": [
+          {
+            "type": "credit",
+            "title": "Deposit approved: TON",
+            "amount": "+$50.00",
+            "date": "5/10/2026, 1:56:33 AM"
+          },
+          {
+            "type": "credit",
+            "title": "Welcome portfolio created",
+            "amount": "+mock balance",
+            "date": "Today"
+          },
+          {
+            "type": "debit",
+            "title": "Security review completed",
+            "amount": "manual checks",
+            "date": "Yesterday"
+          },
+          {
+            "type": "credit",
+            "title": "Market watchlist synced",
+            "amount": "BTC ETH USDT",
+            "date": "2 days ago"
+          }
+        ],
+        "transactions": [
+          {
+            "type": "Deposit",
+            "asset": "USDT",
+            "amount": "250.00",
+            "status": "Completed",
+            "date": "Mock data"
+          },
+          {
+            "type": "Trade",
+            "asset": "ETH",
+            "amount": "0.12",
+            "status": "Filled",
+            "date": "Mock data"
+          }
+        ]
+      }
+    },
+    {
+      "id": "usr_7061d34d825433c5",
+      "email": "admin@1778421392706.test",
+      "passwordHash": "b85dccbf83bdf1321fbe68fabfd0d18b:b6af4fa5b86afcb46272ac5e8315260fd7a0a2a0af742a3a19bbe80b3ec6d1b6",
+      "provider": "email",
+      "role": "admin",
+      "dashboard": {
+        "portfolioValue": 4568,
+        "dailyChange": "1.20",
+        "balances": [
+          {
+            "symbol": "BTC",
+            "name": "Bitcoin",
+            "amount": "0.01400",
+            "usd": 971.88168
+          },
+          {
+            "symbol": "ETH",
+            "name": "Ethereum",
+            "amount": "0.3200",
+            "usd": 1140.6560000000002
+          },
+          {
+            "symbol": "USDT",
+            "name": "Tether",
+            "amount": "858.00",
+            "usd": 858
+          },
+          {
+            "symbol": "TON",
+            "name": "Toncoin",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "TRX",
+            "name": "TRON",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "SOL",
+            "name": "Solana",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "BNB",
+            "name": "BNB",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "ADA",
+            "name": "Cardano",
+            "amount": "0.0000",
+            "usd": 0
+          }
+        ],
+        "activity": [
+          {
+            "type": "credit",
+            "title": "Welcome portfolio created",
+            "amount": "+mock balance",
+            "date": "Today"
+          },
+          {
+            "type": "debit",
+            "title": "Security review completed",
+            "amount": "manual checks",
+            "date": "Yesterday"
+          },
+          {
+            "type": "credit",
+            "title": "Market watchlist synced",
+            "amount": "BTC ETH USDT",
+            "date": "2 days ago"
+          }
+        ],
+        "transactions": [
+          {
+            "type": "Deposit",
+            "asset": "USDT",
+            "amount": "250.00",
+            "status": "Completed",
+            "date": "Mock data"
+          },
+          {
+            "type": "Trade",
+            "asset": "ETH",
+            "amount": "0.12",
+            "status": "Filled",
+            "date": "Mock data"
+          }
+        ]
+      }
+    },
+    {
+      "id": "usr_84a3309c01b0b557",
+      "email": "popup1778422288075@ethiocrypto.test",
+      "passwordHash": "b904a640bc14c5e4369aabea34465792:0826f6b1f20a9ef291f3a83a73414fdb2b017cc35355588195bf055f7df049e3",
+      "provider": "email",
+      "role": "user",
+      "dashboard": {
+        "portfolioValue": 6625,
+        "dailyChange": "2.10",
+        "balances": [
+          {
+            "symbol": "BTC",
+            "name": "Bitcoin",
+            "amount": "0.01500",
+            "usd": 1041.3018
+          },
+          {
+            "symbol": "ETH",
+            "name": "Ethereum",
+            "amount": "0.4100",
+            "usd": 1461.4655
+          },
+          {
+            "symbol": "USDT",
+            "name": "Tether",
+            "amount": "855.00",
+            "usd": 855
+          },
+          {
+            "symbol": "TON",
+            "name": "Toncoin",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "TRX",
+            "name": "TRON",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "SOL",
+            "name": "Solana",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "BNB",
+            "name": "BNB",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "ADA",
+            "name": "Cardano",
+            "amount": "0.0000",
+            "usd": 0
+          }
+        ],
+        "activity": [
+          {
+            "type": "credit",
+            "title": "Welcome portfolio created",
+            "amount": "+mock balance",
+            "date": "Today"
+          },
+          {
+            "type": "debit",
+            "title": "Security review completed",
+            "amount": "manual checks",
+            "date": "Yesterday"
+          },
+          {
+            "type": "credit",
+            "title": "Market watchlist synced",
+            "amount": "BTC ETH USDT",
+            "date": "2 days ago"
+          }
+        ],
+        "transactions": [
+          {
+            "type": "Deposit",
+            "asset": "USDT",
+            "amount": "250.00",
+            "status": "Completed",
+            "date": "Mock data"
+          },
+          {
+            "type": "Trade",
+            "asset": "ETH",
+            "amount": "0.12",
+            "status": "Filled",
+            "date": "Mock data"
+          }
+        ]
+      }
+    },
+    {
+      "id": "usr_40b8ec2a143f6bf9",
+      "email": "admin@popup1778422288075.test",
+      "passwordHash": "4ab51cb9759b3efad1f859287878eaa2:4cfa6f34ca588b8c6b004b293d7101389167f47f930aeeba06eaf655661322da",
+      "provider": "email",
+      "role": "admin",
+      "dashboard": {
+        "portfolioValue": 5033,
+        "dailyChange": "2.10",
+        "balances": [
+          {
+            "symbol": "BTC",
+            "name": "Bitcoin",
+            "amount": "0.01500",
+            "usd": 1041.3018
+          },
+          {
+            "symbol": "ETH",
+            "name": "Ethereum",
+            "amount": "0.4100",
+            "usd": 1461.4655
+          },
+          {
+            "symbol": "USDT",
+            "name": "Tether",
+            "amount": "803.00",
+            "usd": 803
+          },
+          {
+            "symbol": "TON",
+            "name": "Toncoin",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "TRX",
+            "name": "TRON",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "SOL",
+            "name": "Solana",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "BNB",
+            "name": "BNB",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "ADA",
+            "name": "Cardano",
+            "amount": "0.0000",
+            "usd": 0
+          }
+        ],
+        "activity": [
+          {
+            "type": "credit",
+            "title": "Welcome portfolio created",
+            "amount": "+mock balance",
+            "date": "Today"
+          },
+          {
+            "type": "debit",
+            "title": "Security review completed",
+            "amount": "manual checks",
+            "date": "Yesterday"
+          },
+          {
+            "type": "credit",
+            "title": "Market watchlist synced",
+            "amount": "BTC ETH USDT",
+            "date": "2 days ago"
+          }
+        ],
+        "transactions": [
+          {
+            "type": "Deposit",
+            "asset": "USDT",
+            "amount": "250.00",
+            "status": "Completed",
+            "date": "Mock data"
+          },
+          {
+            "type": "Trade",
+            "asset": "ETH",
+            "amount": "0.12",
+            "status": "Filled",
+            "date": "Mock data"
+          }
+        ]
+      }
+    },
+    {
+      "id": "usr_7cf3171d192420ff",
+      "email": "johnraja1030@gmail.com",
+      "passwordHash": "c2ccc3632e220f38c73ad54f1f885387:ed8bb278bdf57b73c762dc4fd3496ee2127e4db75ac5175fadbd8ce9883ca15b",
+      "provider": "email",
+      "role": "user",
+      "dashboard": {
+        "portfolioValue": 6824,
+        "dailyChange": "2.00",
+        "balances": [
+          {
+            "symbol": "BTC",
+            "name": "Bitcoin",
+            "amount": "0.01400",
+            "usd": 971.88168
+          },
+          {
+            "symbol": "ETH",
+            "name": "Ethereum",
+            "amount": "0.4000",
+            "usd": 1425.8200000000002
+          },
+          {
+            "symbol": "USDT",
+            "name": "Tether",
+            "amount": "744.00",
+            "usd": 744
+          },
+          {
+            "symbol": "TON",
+            "name": "Toncoin",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "TRX",
+            "name": "TRON",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "SOL",
+            "name": "Solana",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "BNB",
+            "name": "BNB",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "ADA",
+            "name": "Cardano",
+            "amount": "0.0000",
+            "usd": 0
+          }
+        ],
+        "activity": [
+          {
+            "type": "credit",
+            "title": "Welcome portfolio created",
+            "amount": "+mock balance",
+            "date": "Today"
+          },
+          {
+            "type": "debit",
+            "title": "Security review completed",
+            "amount": "manual checks",
+            "date": "Yesterday"
+          },
+          {
+            "type": "credit",
+            "title": "Market watchlist synced",
+            "amount": "BTC ETH USDT",
+            "date": "2 days ago"
+          }
+        ],
+        "transactions": [
+          {
+            "type": "Deposit",
+            "asset": "USDT",
+            "amount": "250.00",
+            "status": "Completed",
+            "date": "Mock data"
+          },
+          {
+            "type": "Trade",
+            "asset": "ETH",
+            "amount": "0.12",
+            "status": "Filled",
+            "date": "Mock data"
+          }
+        ]
+      }
+    },
+    {
+      "id": "usr_2cae848ca3ea688c",
+      "email": "fixuser1779526558721@ethiocrypto.test",
+      "passwordHash": "e7c42374b89047da22e4c05a2a296e6a:9eec3aeda371b09f74a0427a2dd3c8e84c5cf950fb8fb581ac2877f16a58d30e",
+      "provider": "email",
+      "role": "user",
+      "dashboard": {
+        "portfolioValue": 6038,
+        "dailyChange": "3.50",
+        "balances": [
+          {
+            "symbol": "BTC",
+            "name": "Bitcoin",
+            "amount": "0.02100",
+            "usd": 1457.82252
+          },
+          {
+            "symbol": "ETH",
+            "name": "Ethereum",
+            "amount": "0.4300",
+            "usd": 1532.7565
+          },
+          {
+            "symbol": "USDT",
+            "name": "Tether",
+            "amount": "998.000000",
+            "usd": 998
+          },
+          {
+            "symbol": "TON",
+            "name": "Toncoin",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "TRX",
+            "name": "TRON",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "SOL",
+            "name": "Solana",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "BNB",
+            "name": "BNB",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "ADA",
+            "name": "Cardano",
+            "amount": "0.0000",
+            "usd": 0
+          }
+        ],
+        "activity": [
+          {
+            "type": "credit",
+            "title": "Deposit approved: USDT",
+            "amount": "+$35.00",
+            "date": "5/22/2026, 8:56:01 PM"
+          },
+          {
+            "type": "credit",
+            "title": "Welcome portfolio created",
+            "amount": "+mock balance",
+            "date": "Today"
+          },
+          {
+            "type": "debit",
+            "title": "Security review completed",
+            "amount": "manual checks",
+            "date": "Yesterday"
+          },
+          {
+            "type": "credit",
+            "title": "Market watchlist synced",
+            "amount": "BTC ETH USDT",
+            "date": "2 days ago"
+          }
+        ],
+        "transactions": [
+          {
+            "type": "Deposit",
+            "asset": "USDT",
+            "amount": "250.00",
+            "status": "Completed",
+            "date": "Mock data"
+          },
+          {
+            "type": "Trade",
+            "asset": "ETH",
+            "amount": "0.12",
+            "status": "Filled",
+            "date": "Mock data"
+          }
+        ]
+      }
+    },
+    {
+      "id": "usr_73694084ecd3a51e",
+      "email": "admin@fix1779526559871.test",
+      "passwordHash": "b939f45a5c00c94aac0cd179ce9d6409:dfe4bc130ce0477ecf8d13b97fdd42a008e8cf9d2e7ff09e45d30072df5d5993",
+      "provider": "email",
+      "role": "admin",
+      "dashboard": {
+        "portfolioValue": 4979,
+        "dailyChange": "1.50",
+        "balances": [
+          {
+            "symbol": "BTC",
+            "name": "Bitcoin",
+            "amount": "0.01700",
+            "usd": 1180.14204
+          },
+          {
+            "symbol": "ETH",
+            "name": "Ethereum",
+            "amount": "0.3500",
+            "usd": 1247.5925
+          },
+          {
+            "symbol": "USDT",
+            "name": "Tether",
+            "amount": "749.00",
+            "usd": 749
+          },
+          {
+            "symbol": "TON",
+            "name": "Toncoin",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "TRX",
+            "name": "TRON",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "SOL",
+            "name": "Solana",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "BNB",
+            "name": "BNB",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "ADA",
+            "name": "Cardano",
+            "amount": "0.0000",
+            "usd": 0
+          }
+        ],
+        "activity": [
+          {
+            "type": "credit",
+            "title": "Welcome portfolio created",
+            "amount": "+mock balance",
+            "date": "Today"
+          },
+          {
+            "type": "debit",
+            "title": "Security review completed",
+            "amount": "manual checks",
+            "date": "Yesterday"
+          },
+          {
+            "type": "credit",
+            "title": "Market watchlist synced",
+            "amount": "BTC ETH USDT",
+            "date": "2 days ago"
+          }
+        ],
+        "transactions": [
+          {
+            "type": "Deposit",
+            "asset": "USDT",
+            "amount": "250.00",
+            "status": "Completed",
+            "date": "Mock data"
+          },
+          {
+            "type": "Trade",
+            "asset": "ETH",
+            "amount": "0.12",
+            "status": "Filled",
+            "date": "Mock data"
+          }
+        ]
+      }
+    },
+    {
+      "id": "usr_d64a06feacb3e0a0",
+      "email": "visual1779526727117@ethiocrypto.test",
+      "passwordHash": "e4e596e1059b305b87f736b970ecd8f9:d398100f4ff75e87f924c14212cb8e116c7ad43612898af6aedba04ba3f79ab7",
+      "provider": "email",
+      "role": "user",
+      "dashboard": {
+        "portfolioValue": 4674,
+        "dailyChange": "3.40",
+        "balances": [
+          {
+            "symbol": "BTC",
+            "name": "Bitcoin",
+            "amount": "0.02000",
+            "usd": 1388.4024
+          },
+          {
+            "symbol": "ETH",
+            "name": "Ethereum",
+            "amount": "0.4200",
+            "usd": 1497.111
+          },
+          {
+            "symbol": "USDT",
+            "name": "Tether",
+            "amount": "774.00",
+            "usd": 774
+          },
+          {
+            "symbol": "TON",
+            "name": "Toncoin",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "TRX",
+            "name": "TRON",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "SOL",
+            "name": "Solana",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "BNB",
+            "name": "BNB",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "ADA",
+            "name": "Cardano",
+            "amount": "0.0000",
+            "usd": 0
+          }
+        ],
+        "activity": [
+          {
+            "type": "credit",
+            "title": "Welcome portfolio created",
+            "amount": "+mock balance",
+            "date": "Today"
+          },
+          {
+            "type": "debit",
+            "title": "Security review completed",
+            "amount": "manual checks",
+            "date": "Yesterday"
+          },
+          {
+            "type": "credit",
+            "title": "Market watchlist synced",
+            "amount": "BTC ETH USDT",
+            "date": "2 days ago"
+          }
+        ],
+        "transactions": [
+          {
+            "type": "Deposit",
+            "asset": "USDT",
+            "amount": "250.00",
+            "status": "Completed",
+            "date": "Mock data"
+          },
+          {
+            "type": "Trade",
+            "asset": "ETH",
+            "amount": "0.12",
+            "status": "Filled",
+            "date": "Mock data"
+          }
+        ]
+      }
+    },
+    {
+      "id": "usr_4a763ff7a4b8c022",
+      "email": "google.demo@ethiocrypto.local",
+      "passwordHash": "",
+      "provider": "google",
+      "role": "user",
+      "dashboard": {
+        "portfolioValue": 4398,
+        "dailyChange": "2.60",
+        "balances": [
+          {
+            "symbol": "BTC",
+            "name": "Bitcoin",
+            "amount": "0.02000",
+            "usd": 1388.4024
+          },
+          {
+            "symbol": "ETH",
+            "name": "Ethereum",
+            "amount": "0.3400",
+            "usd": 1211.9470000000001
+          },
+          {
+            "symbol": "USDT",
+            "name": "Tether",
+            "amount": "898.00",
+            "usd": 898
+          },
+          {
+            "symbol": "TON",
+            "name": "Toncoin",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "TRX",
+            "name": "TRON",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "SOL",
+            "name": "Solana",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "BNB",
+            "name": "BNB",
+            "amount": "0.0000",
+            "usd": 0
+          },
+          {
+            "symbol": "ADA",
+            "name": "Cardano",
+            "amount": "0.0000",
+            "usd": 0
+          }
+        ],
+        "activity": [
+          {
+            "type": "credit",
+            "title": "Welcome portfolio created",
+            "amount": "+mock balance",
+            "date": "Today"
+          },
+          {
+            "type": "debit",
+            "title": "Security review completed",
+            "amount": "manual checks",
+            "date": "Yesterday"
+          },
+          {
+            "type": "credit",
+            "title": "Market watchlist synced",
+            "amount": "BTC ETH USDT",
+            "date": "2 days ago"
+          }
+        ],
+        "transactions": [
+          {
+            "type": "Deposit",
+            "asset": "USDT",
+            "amount": "250.00",
+            "status": "Completed",
+            "date": "Mock data"
+          },
+          {
+            "type": "Trade",
+            "asset": "ETH",
+            "amount": "0.12",
+            "status": "Filled",
+            "date": "Mock data"
+          }
+        ]
+      }
+    }
+  ],
+  "sessions": {
+    "e439a8459ab54df8b1ea2bcf22f979c41c6e5e1461f52762518e2c6ac26b7964": "usr_90e2bcf7b52f0d7d",
+    "8498d14689ee98557a4aa1d83309fe44a76b026a2f518cd8380d2e922f3a6886": "usr_1b89df042cfb30fc",
+    "1bcf57338bb74be4a8bb10bc29d12511e09fa6bab92affb5b26b470352dac9d3": "usr_dbceb1f1600db1ff",
+    "3d779ce7fdc068c16a1c17ac640e9efc3488ccb6d29eab5dff682bdc069f247b": "usr_a5b339c86a422140",
+    "6b319e4944f5da7546cd9425d2b89e1019a8c6f4e30e378d2f975df7761188b1": "usr_1db8c6fa4fcea18d",
+    "cf9f924ba239314ebe3c301d942e675eec9b888f80f6a611f56d599a21796505": "usr_7061d34d825433c5",
+    "1adbba03f2e8135aefac603692b653470f74ffaf6b792fc3f3574198c4ff8326": "usr_84a3309c01b0b557",
+    "98b9ffbb8d9aad064e919982751b1f61c86dbf60edc366374b7e0d6d1f06f2b8": "usr_40b8ec2a143f6bf9",
+    "fa7e9ae5d8deb4be7369f8e069d9c57cf9f0326dbd71d07d910f5d85fbb52e74": "usr_2cae848ca3ea688c",
+    "458569c447745dc30f8ffe94b243cd1eee7fa8355de82711a3b9e90d42fb4db7": "usr_73694084ecd3a51e",
+    "0338d25cf87fd8d7c62b877db6dace09ed4ff82b6eb121d359eacbb0c74afa82": "usr_4a763ff7a4b8c022",
+    "076e83ca08e14bbca8205f6af5a3b4ccdfeb2dd77b3734a5aea41fdc73d95b3f": "usr_4a763ff7a4b8c022"
+  },
+  "deposits": [
+    {
+      "id": "dep_df6bfca4e02fbe8f",
+      "userId": "usr_d64a06feacb3e0a0",
+      "userEmail": "visual1779526727117@ethiocrypto.test",
+      "asset": "USDT",
+      "amountUsd": 20,
+      "amount": "$20.00",
+      "network": "TRC20",
+      "txHash": "",
+      "status": "Pending",
+      "depositWallet": "0xETHIO-CRYPTO-DEPOSIT-VAULT-2026",
+      "date": "5/22/2026, 8:59:12 PM"
+    },
+    {
+      "id": "dep_ceab687f8a689947",
+      "userId": "usr_2cae848ca3ea688c",
+      "userEmail": "fixuser1779526558721@ethiocrypto.test",
+      "asset": "USDT",
+      "amountUsd": 35,
+      "amount": "$35.00",
+      "network": "TRC20",
+      "txHash": "",
+      "status": "Approved",
+      "depositWallet": "0xETHIO-CRYPTO-DEPOSIT-VAULT-2026",
+      "date": "5/22/2026, 8:56:00 PM",
+      "reviewedAt": "5/22/2026, 8:56:01 PM",
+      "reviewedBy": "admin@fix1779526559871.test"
+    },
+    {
+      "id": "dep_1dfda0d5ada39d77",
+      "userId": "usr_7cf3171d192420ff",
+      "userEmail": "johnraja1030@gmail.com",
+      "asset": "USDT",
+      "amountUsd": 10,
+      "amount": "$10.00",
+      "network": "TON",
+      "txHash": "",
+      "status": "Pending",
+      "depositWallet": "0xETHIO-CRYPTO-DEPOSIT-VAULT-2026",
+      "date": "5/22/2026, 8:54:47 PM"
+    },
+    {
+      "id": "dep_0b3fcceeccec31ff",
+      "userId": "usr_1b89df042cfb30fc",
+      "userEmail": "browser1778420561172@ethiocrypto.test",
+      "asset": "USDT",
+      "amountUsd": 60,
+      "amount": "$60.00",
+      "network": "TRC20",
+      "txHash": "",
+      "status": "Pending",
+      "depositWallet": "0xETHIO-CRYPTO-DEPOSIT-VAULT-2026",
+      "date": "5/10/2026, 2:14:51 AM"
+    },
+    {
+      "id": "dep_6c2a1d1ab8a3fc5d",
+      "userId": "usr_84a3309c01b0b557",
+      "userEmail": "popup1778422288075@ethiocrypto.test",
+      "asset": "USDT",
+      "amountUsd": 25,
+      "amount": "$25.00",
+      "network": "TRC20",
+      "txHash": "",
+      "status": "Pending",
+      "depositWallet": "0xETHIO-CRYPTO-DEPOSIT-VAULT-2026",
+      "date": "5/10/2026, 2:11:34 AM"
+    },
+    {
+      "id": "dep_150a9850141c01cf",
+      "userId": "usr_1b89df042cfb30fc",
+      "userEmail": "browser1778420561172@ethiocrypto.test",
+      "asset": "USDT",
+      "amountUsd": 60,
+      "amount": "$60.00",
+      "network": "TON",
+      "txHash": "fff5fg5g6",
+      "status": "Pending",
+      "depositWallet": "0xETHIO-CRYPTO-DEPOSIT-VAULT-2026",
+      "date": "5/10/2026, 1:59:37 AM"
+    },
+    {
+      "id": "dep_e0985ed319faf872",
+      "userId": "usr_1b89df042cfb30fc",
+      "userEmail": "browser1778420561172@ethiocrypto.test",
+      "asset": "USDT",
+      "amountUsd": 60,
+      "amount": "$60.00",
+      "network": "TON",
+      "txHash": "",
+      "status": "Pending",
+      "depositWallet": "0xETHIO-CRYPTO-DEPOSIT-VAULT-2026",
+      "date": "5/10/2026, 1:59:32 AM"
+    },
+    {
+      "id": "dep_40e96e4cc9e37635",
+      "userId": "usr_1b89df042cfb30fc",
+      "userEmail": "browser1778420561172@ethiocrypto.test",
+      "asset": "USDT",
+      "amountUsd": 60,
+      "amount": "$60.00",
+      "network": "TON",
+      "txHash": "",
+      "status": "Pending",
+      "depositWallet": "0xETHIO-CRYPTO-DEPOSIT-VAULT-2026",
+      "date": "5/10/2026, 1:59:25 AM"
+    },
+    {
+      "id": "dep_af5800801e80a05d",
+      "userId": "usr_1db8c6fa4fcea18d",
+      "userEmail": "user1778421391992@ethiocrypto.test",
+      "asset": "TON",
+      "amountUsd": 50,
+      "amount": "$50.00",
+      "network": "TON",
+      "txHash": "",
+      "status": "Approved",
+      "depositWallet": "0xETHIO-CRYPTO-DEPOSIT-VAULT-2026",
+      "date": "5/10/2026, 1:56:32 AM",
+      "reviewedAt": "5/10/2026, 1:56:33 AM",
+      "reviewedBy": "admin@1778421392706.test"
+    },
+    {
+      "id": "dep_c97b549e5e834bee",
+      "userId": "usr_dbceb1f1600db1ff",
+      "userEmail": "user1778421376851@ethiocrypto.test",
+      "asset": "TON",
+      "amountUsd": 50,
+      "amount": "$50.00",
+      "network": "TON",
+      "txHash": "",
+      "status": "Pending",
+      "depositWallet": "0xETHIO-CRYPTO-DEPOSIT-VAULT-2026",
+      "date": "5/10/2026, 1:56:17 AM"
+    },
+    {
+      "id": "dep_b1ae0cdff9f49148",
+      "userId": "usr_90e2bcf7b52f0d7d",
+      "asset": "USDT",
+      "amount": "100",
+      "txHash": "0xabc123",
+      "status": "Pending",
+      "depositWallet": "0xETHIO-CRYPTO-DEPOSIT-VAULT-2026",
+      "date": "5/10/2026, 1:38:07 AM",
+      "amountUsd": 100,
+      "network": "TRC20"
+    }
+  ],
+  "withdrawals": [
+    {
+      "id": "wd_8c7e71bc2d426e62",
+      "userId": "usr_1b89df042cfb30fc",
+      "userEmail": "browser1778420561172@ethiocrypto.test",
+      "asset": "USDT",
+      "amount": "60",
+      "network": "TRC20",
+      "address": "56h57j68i57k57k57",
+      "status": "Pending manual send",
+      "date": "5/10/2026, 2:00:13 AM"
+    },
+    {
+      "id": "wd_0f69a1d27c950226",
+      "userId": "usr_1b89df042cfb30fc",
+      "userEmail": "browser1778420561172@ethiocrypto.test",
+      "asset": "USDT",
+      "amount": "60",
+      "network": "TRC20",
+      "address": "56h57j68i57k57k57",
+      "status": "Pending manual send",
+      "date": "5/10/2026, 2:00:12 AM"
+    },
+    {
+      "id": "wd_a0dd43ac890be86e",
+      "userId": "usr_90e2bcf7b52f0d7d",
+      "asset": "USDT",
+      "amount": "25",
+      "address": "0xuserwallet",
+      "status": "Pending manual send",
+      "date": "5/10/2026, 1:38:07 AM"
+    }
+  ],
+  "sends": [
+    {
+      "id": "send_1505a2701163c0ea",
+      "userId": "usr_1b89df042cfb30fc",
+      "userEmail": "browser1778420561172@ethiocrypto.test",
+      "asset": "USDT",
+      "amount": "60",
+      "network": "TRC20",
+      "address": "ftyhfkjl2fd273i8ro9r2p3icknkei2o",
+      "status": "Pending manual send",
+      "date": "5/10/2026, 2:15:42 AM"
+    },
+    {
+      "id": "send_a42ecac676283d78",
+      "userId": "usr_1b89df042cfb30fc",
+      "userEmail": "browser1778420561172@ethiocrypto.test",
+      "asset": "USDT",
+      "amount": "60",
+      "network": "TON",
+      "address": "hrdytmjetumeum5e",
+      "status": "Pending manual send",
+      "date": "5/10/2026, 2:00:45 AM"
+    },
+    {
+      "id": "send_c1e01a1fe55e5a55",
+      "userId": "usr_1b89df042cfb30fc",
+      "userEmail": "browser1778420561172@ethiocrypto.test",
+      "asset": "USDT",
+      "amount": "60",
+      "network": "TON",
+      "address": "hrdytmjetumeum5e",
+      "status": "Pending manual send",
+      "date": "5/10/2026, 2:00:40 AM"
+    }
+  ],
+  "adminNotifications": [
+    {
+      "id": "note_89d21ea7baf3fcc6",
+      "type": "deposit",
+      "userId": "usr_d64a06feacb3e0a0",
+      "message": "visual1779526727117@ethiocrypto.test submitted $20.00 USDT deposit",
+      "date": "5/22/2026, 8:59:12 PM"
+    },
+    {
+      "id": "note_809565745d723a8b",
+      "type": "deposit-review",
+      "userId": "usr_2cae848ca3ea688c",
+      "message": "admin@fix1779526559871.test marked dep_ceab687f8a689947 Approved",
+      "date": "5/22/2026, 8:56:01 PM"
+    },
+    {
+      "id": "note_2e2f07dc31cae6a8",
+      "type": "deposit",
+      "userId": "usr_2cae848ca3ea688c",
+      "message": "fixuser1779526558721@ethiocrypto.test submitted $35.00 USDT deposit",
+      "date": "5/22/2026, 8:56:00 PM"
+    },
+    {
+      "id": "note_44c2296e6cd3f9a0",
+      "type": "deposit",
+      "userId": "usr_7cf3171d192420ff",
+      "message": "johnraja1030@gmail.com submitted $10.00 USDT deposit",
+      "date": "5/22/2026, 8:54:47 PM"
+    },
+    {
+      "id": "note_f3628366402da2b5",
+      "type": "send",
+      "userId": "usr_1b89df042cfb30fc",
+      "message": "browser1778420561172@ethiocrypto.test created a 60 USDT send request",
+      "date": "5/10/2026, 2:15:42 AM"
+    },
+    {
+      "id": "note_b45321812a7065eb",
+      "type": "deposit",
+      "userId": "usr_1b89df042cfb30fc",
+      "message": "browser1778420561172@ethiocrypto.test submitted $60.00 USDT deposit",
+      "date": "5/10/2026, 2:14:51 AM"
+    },
+    {
+      "id": "note_4bedafdee81c6b55",
+      "type": "deposit",
+      "userId": "usr_84a3309c01b0b557",
+      "message": "popup1778422288075@ethiocrypto.test submitted $25.00 USDT deposit",
+      "date": "5/10/2026, 2:11:34 AM"
+    },
+    {
+      "id": "note_2866ebcbb177b6fc",
+      "type": "send",
+      "userId": "usr_1b89df042cfb30fc",
+      "message": "browser1778420561172@ethiocrypto.test created a 60 USDT send request",
+      "date": "5/10/2026, 2:00:45 AM"
+    },
+    {
+      "id": "note_d6d6a1a8aab4abb1",
+      "type": "send",
+      "userId": "usr_1b89df042cfb30fc",
+      "message": "browser1778420561172@ethiocrypto.test created a 60 USDT send request",
+      "date": "5/10/2026, 2:00:40 AM"
+    },
+    {
+      "id": "note_03a47dbc24ecb674",
+      "type": "withdrawal",
+      "userId": "usr_1b89df042cfb30fc",
+      "message": "browser1778420561172@ethiocrypto.test requested 60 USDT withdrawal",
+      "date": "5/10/2026, 2:00:13 AM"
+    },
+    {
+      "id": "note_7c73012c2da689fe",
+      "type": "withdrawal",
+      "userId": "usr_1b89df042cfb30fc",
+      "message": "browser1778420561172@ethiocrypto.test requested 60 USDT withdrawal",
+      "date": "5/10/2026, 2:00:12 AM"
+    },
+    {
+      "id": "note_ef479bf6fc0e0567",
+      "type": "deposit",
+      "userId": "usr_1b89df042cfb30fc",
+      "message": "browser1778420561172@ethiocrypto.test submitted $60.00 USDT deposit",
+      "date": "5/10/2026, 1:59:37 AM"
+    },
+    {
+      "id": "note_a4cc0c2d1902aa55",
+      "type": "deposit",
+      "userId": "usr_1b89df042cfb30fc",
+      "message": "browser1778420561172@ethiocrypto.test submitted $60.00 USDT deposit",
+      "date": "5/10/2026, 1:59:32 AM"
+    },
+    {
+      "id": "note_3329aaef0e8b724f",
+      "type": "deposit",
+      "userId": "usr_1b89df042cfb30fc",
+      "message": "browser1778420561172@ethiocrypto.test submitted $60.00 USDT deposit",
+      "date": "5/10/2026, 1:59:25 AM"
+    },
+    {
+      "id": "note_390c02efda874b1f",
+      "type": "deposit-review",
+      "userId": "usr_1db8c6fa4fcea18d",
+      "message": "admin@1778421392706.test marked dep_af5800801e80a05d Approved",
+      "date": "5/10/2026, 1:56:33 AM"
+    },
+    {
+      "id": "note_cc4b86d8e12be9a2",
+      "type": "deposit",
+      "userId": "usr_1db8c6fa4fcea18d",
+      "message": "user1778421391992@ethiocrypto.test submitted $50.00 TON deposit",
+      "date": "5/10/2026, 1:56:32 AM"
+    },
+    {
+      "id": "note_76728d516128796d",
+      "type": "deposit",
+      "userId": "usr_dbceb1f1600db1ff",
+      "message": "user1778421376851@ethiocrypto.test submitted $50.00 TON deposit",
+      "date": "5/10/2026, 1:56:17 AM"
+    },
+    {
+      "id": "note_d6092e2c816fe50d",
+      "type": "withdrawal",
+      "userId": "usr_90e2bcf7b52f0d7d",
+      "message": "demo1778420285826@ethiocrypto.test requested 25 USDT withdrawal",
+      "date": "5/10/2026, 1:38:07 AM"
+    },
+    {
+      "id": "note_b6b375e8c29f7095",
+      "type": "deposit",
+      "userId": "usr_90e2bcf7b52f0d7d",
+      "message": "demo1778420285826@ethiocrypto.test submitted 100 USDT deposit",
+      "date": "5/10/2026, 1:38:07 AM"
+    }
+  ]
+}
